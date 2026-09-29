@@ -1,6 +1,6 @@
 # Processador Estatístico · versão anterior
 
-Versão anterior do primeiro projeto de POO II. A versão final, com controle de geração e melhorias na exportação, está em [POO2---Primeiro-Projeto-](https://github.com/GeovanaBlasius/POO2---Primeiro-Projeto-).
+Versão anterior do primeiro projeto de POO II. A versão final, com controle de geração e melhorias na exportação, está em [Processador-Estatistico](https://github.com/GeovanaBlasius/Processador-Estatistico).
 
 **Disciplina:** Programação Orientada a Objetos II  
 **Tecnologias:** Java 21, Maven, SQLite, Jackson
